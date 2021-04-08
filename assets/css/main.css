@@ -346,6 +346,10 @@ button:hover{
        margin: 10px 0;
    }
 
+   .google{
+       margin-top: 30px;
+   }
+
 }
 
 @media(max-width: 600px){
@@ -419,5 +423,9 @@ button:hover{
 
        .language a{
         margin: 10px 0;
+    }
+
+    .google{
+        margin-top: 30px;
     }
 }
